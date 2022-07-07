@@ -5,7 +5,7 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: #e6e3e3;
 }
-.bannar{
+#bannar{
     background-image: url("images/donation1.jpg");
     background-color: #cccccc;
     background-repeat: no-repeat;
@@ -25,9 +25,6 @@ body{
     text-align: center;
     color: white;
     font-size: 50px;
-    
-}
-.bannar p{
     
 }
 .button{
@@ -51,15 +48,15 @@ section {
     text-align: center;
     color: #333300;
 }
-.menu{
+#menu{
     margin: auto;
     width: 580px;
 }
-.menu ul{
+#menu ul{
     list-style-type: none;
     text-align: center;
 }
-.menu ul li{
+#menu ul li{
     display: flex;
     float: left;
     padding: 5px 10px;
